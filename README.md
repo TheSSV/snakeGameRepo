@@ -1,3 +1,3 @@
 # snakeGameRepo
 snake game website
-first proper website and game
+- first proper website and game
